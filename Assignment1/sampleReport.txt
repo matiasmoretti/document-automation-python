@@ -1,0 +1,4 @@
+Word		Frequency
+I	|	99
+the	|	98
+and	|	97
