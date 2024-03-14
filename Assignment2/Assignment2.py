@@ -7,7 +7,7 @@ This is a request API for Assignment 2 of Python
 """
 import requests
 
-api_key = '2ced364219ff1ee59bc33df10ddc222e'
+api_key = ''
 
 city = input('Enter city name: ')
 
